@@ -1,0 +1,2 @@
+(this["webpackJsonprc-ws-react"]=this["webpackJsonprc-ws-react"]||[]).push([[0],[,,,function(n,e,t){n.exports=t(10)},,,,,function(n,e,t){},function(n,e,t){},function(n,e,t){"use strict";t.r(e);var r=t(0),c=t.n(r),a=t(2),o=t.n(a);t(8),t(9);var u=function(){return c.a.createElement("div",null,"Ricardo Carruyo")};o.a.render(c.a.createElement(u,null),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.7d0811df.chunk.js.map
