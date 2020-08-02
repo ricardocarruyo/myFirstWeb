@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.47ed85c6.chunk.css",
-    "main.js": "/static/js/main.8a187008.chunk.js",
-    "main.js.map": "/static/js/main.8a187008.chunk.js.map",
+    "main.js": "/static/js/main.9d6293ae.chunk.js",
+    "main.js.map": "/static/js/main.9d6293ae.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.95cf5038.js",
     "runtime-main.js.map": "/static/js/runtime-main.95cf5038.js.map",
-    "static/js/2.fbad1a58.chunk.js": "/static/js/2.fbad1a58.chunk.js",
-    "static/js/2.fbad1a58.chunk.js.map": "/static/js/2.fbad1a58.chunk.js.map",
+    "static/js/2.ad29d98d.chunk.js": "/static/js/2.ad29d98d.chunk.js",
+    "static/js/2.ad29d98d.chunk.js.map": "/static/js/2.ad29d98d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.32acadadd3e5b32275ffa867816125a5.js": "/precache-manifest.32acadadd3e5b32275ffa867816125a5.js",
+    "precache-manifest.88c2206be2dff31b0ab35a021a7d1694.js": "/precache-manifest.88c2206be2dff31b0ab35a021a7d1694.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.47ed85c6.chunk.css.map": "/static/css/main.47ed85c6.chunk.css.map",
-    "static/js/2.fbad1a58.chunk.js.LICENSE.txt": "/static/js/2.fbad1a58.chunk.js.LICENSE.txt",
+    "static/js/2.ad29d98d.chunk.js.LICENSE.txt": "/static/js/2.ad29d98d.chunk.js.LICENSE.txt",
     "static/media/avatar.png": "/static/media/avatar.c9967c2c.png",
     "static/media/App.css": "/static/media/coffee-apple.2dd213aa.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.95cf5038.js",
-    "static/js/2.fbad1a58.chunk.js",
+    "static/js/2.ad29d98d.chunk.js",
     "static/css/main.47ed85c6.chunk.css",
-    "static/js/main.8a187008.chunk.js"
+    "static/js/main.9d6293ae.chunk.js"
   ]
 }
