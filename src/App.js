@@ -4,16 +4,15 @@ import { CssBaseline } from '@material-ui/core';
 import Home from './Components/index'
 
 
-function App() {
+class App extends Component {
+  render(){
       return (
         <div>
             <CssBaseline />
             <Home />
         </div>
-
-
       )
-
+  }
 }
 
 export default App;
