@@ -1,11 +1,18 @@
-import React from 'react';
-import './App.css';
+import React, { Component } from 'react';
+import './App.css'
+import { CssBaseline } from '@material-ui/core';
+import Home from './Components/index'
+
 
 function App() {
-  return (
-    <div>Ricardo Carruyo</div>
-  )
+      return (
+        <div>
+            <CssBaseline />
+            <Home />
+        </div>
 
+
+      )
 
 }
 
